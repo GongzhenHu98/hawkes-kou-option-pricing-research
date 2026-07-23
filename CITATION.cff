@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "When Does Self-Excitation Matter for Option Pricing?"
+message: "If you use this research code, please cite the repository release."
+type: software
+authors:
+  - family-names: Hu
+    given-names: Gongzhen
+year: 2026
+version: 0.1.0
+license: MIT
